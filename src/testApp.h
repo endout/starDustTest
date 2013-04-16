@@ -1,7 +1,6 @@
 #pragma once
 
 #include "ofMain.h"
-#include "ofxSyphon.h"
 #define NUM 15000
 
 class testApp : public ofBaseApp{
